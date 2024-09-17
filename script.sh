@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello"
-mkdir {1..10}
+mkdir dir_{1..10}
